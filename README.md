@@ -1,2 +1,2 @@
 # larafire-crud
-Documentation CRUD firebase on Laravel
+CRUD firebase on Laravel
